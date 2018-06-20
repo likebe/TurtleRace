@@ -1,0 +1,16 @@
+Turtle Race
+
+Producer: Kebing Li 
+Lead Programmer: Liwei Jiang, Iris Lian 
+Designer: Yi Feng
+Visual Artist: Mingchen Li 
+Audio Artist: Jiaheng Hu
+QA: Yin Li
+
+January 31, 2017
+
+To play the game, you need to have pygame and python2.7 installed. Please cd to the TurtleRace directory and then type:
+
+python2.7 TurtleRace.py
+
+into a terminal. 
